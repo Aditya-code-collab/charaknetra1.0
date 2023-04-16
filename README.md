@@ -2,8 +2,9 @@
 
 CharakNetra is a healthcare project that utilizes blockchain and machine learning to securely store and analyze patient medical records, as well as track critical health data using IoT sensors.
 
-##Project Demo
-![Video](https://drive.google.com/file/d/1AR1GoM4W59BeQ2VwQP_QZJMeRBKgefaG/view?usp=sharing)
+## Project Demo
+
+[Video](https://drive.google.com/file/d/1AR1GoM4W59BeQ2VwQP_QZJMeRBKgefaG/view?usp=sharing)
 
 ## Installation
 
@@ -35,13 +36,15 @@ Back-end dependencies include:
 
 ## Screenshots
 
-![Dashboard Screenshot](/screenshots/cn1.png)
+![Dashboard Screenshot](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/screenshots/cn4.png)
 
-![Patient Records Screenshot](/screenshots/cn2.png)
+![Patient Records Screenshot](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/screenshots/cn2.PNG)
 
-## Live Demo
+![Dashboard Screenshot](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/screenshots/cn3.png)
 
-A live demo of the project can be found at [https://www.charaknetra.com](https://www.charaknetra.com).
+![Dashboard Screenshot](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/screenshots/cn1.PNG)
+
+![Dashboard Screenshot](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/screenshots/cn5.png)
 
 ## API Usage
 
@@ -49,4 +52,4 @@ The project also utilizes a no-code API to access Google Fit data.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License]([LICENSE](https://github.com/Aditya-code-collab/charaknetra1.0/blob/main/LICENSE.txt)).
