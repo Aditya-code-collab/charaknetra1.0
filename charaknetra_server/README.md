@@ -37,9 +37,6 @@
 <!-- ABOUT THE PROJECT -->
 ## Project
 
- <a href="https://github.com/github_Abhayparashar/price-compare-app">
-    <img src="images/img.png">   <img src="images/img1.png"> <img src="images/img2.png">
-  </a>
 
 `Abhayparashar31`, `Diabetes-prediction`,  `parasharabhay13@gmail.com`
 
