@@ -73,7 +73,7 @@ Version python 3.8 <
  
 1. Clone the repo
 ```
-git clone https://github.com/github_Abhayparashar31/Diabetes-prediction.git
+git clone url
 ```
 2. Install Python Libraries
 ```
@@ -89,10 +89,6 @@ import matplolib.pyplot as plt
 from flask import Flask,request, url_for, redirect, render_template
 import pickle
 ```
-## Contributers
-
-Abhayparashar31
-
 
 
 <!-- LICENSE -->
@@ -102,10 +98,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
-
-Your Name - Abhayparashar31
 
 Project Link: [https://github.com/Abhayparashar31/Diabetes-prediction/](https://github.com/Abhayparashar31/Diabetes-prediction/)
 
